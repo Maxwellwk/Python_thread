@@ -1,2 +1,2 @@
 # Python_thread
-This is about thread
+python3中的线程操作案例
